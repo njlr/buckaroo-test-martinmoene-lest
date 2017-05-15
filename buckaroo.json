@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-martinmoene-lest",
+  "dependencies": {
+    "google/gtest": "1.8.0",
+    "martinmoene/lest": "1.29.1"
+  }
+}
